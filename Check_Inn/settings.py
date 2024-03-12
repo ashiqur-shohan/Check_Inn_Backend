@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-bn@6#l=(_$jq!qg8^mq1mg6h@6y5jv5h)(5k^n=f+o2%!x+qkb
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://check-inn-backend.onrender.com/','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://check-inn-backend.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
